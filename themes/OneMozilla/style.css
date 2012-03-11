@@ -488,7 +488,7 @@ input:-moz-placeholder { text-transform: uppercase; }
 #foot-logo, #colophon, #nav-meta { float: left; width: 252px; margin-right: 24px; }
 #site-info a:link, #site-info a:visited { color: #67a7d0; }
 #site-info a:hover, #site-info a:focus, #site-info a:active { color: #5c94b8; }
-#foot-logo .logo { display: block; float: left; width: 92px; height: 26px; text-indent: -999em; overflow: hidden; border: 0; background: url("img/logo-mozilla-lt.png") 0 0 no-repeat; opacity: .8; 
+#foot-logo .logo { display: block; float: left; width: 92px; height: 55px; text-indent: -999em; overflow: hidden; border: 0; background: url("img/logo-mozilla-lt.png") 0 0 no-repeat; opacity: .8; 
   -moz-transition: opacity .1s linear;
   -webkit-transition: opacity .1s linear;
   -o-transition: opacity .1s linear;
