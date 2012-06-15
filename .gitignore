@@ -1,2 +1,7 @@
 .svn
 .DS_Store
+.gitignore
+index.php
+plugins/*
+themes/twenty*
+themes/index.php
